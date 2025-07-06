@@ -1,2 +1,28 @@
-# fajar-ginjal
-tugas uas
+NAMA KELOMPOK
+- ACHMAD MAULANA FAJAR 
+- NANDA ADE FAHREZA
+
+1. ini saya menggunakan xampp untuk menjalankan aplikasi web yang mau saya uji 
+saya menggunakan xampp dengan php versi 8.2.12
+
+2.taruh folder ginjal di htdocts
+3.kemudian buat data base di localhost php my admin yang Bernama sistem_pakar kemudian import data base sistem_pakar.sql
+
+4.kemudian jalankan di browser localhost/ginjal 
+
+ini password 
+
+sebagai Pasien
+Username =  adi
+Password = adi12345
+
+sebagai Pakar
+Username = Dokter Budi
+Password = budi12345
+
+sebagai Admin
+Username = admin
+Password = admin12345
+
+kalau saya mengujinya sebagai admin  saya ingin menguji fungsional nya 
+create read update delete pada login melalui admin
